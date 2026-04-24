@@ -22,7 +22,11 @@ This course covers:
 - Deployment to Vercel with automatic GitHub integration
 - Modern TypeScript and React best practices
 
-## Source Code
+## Screenshots
 
-The tutorial source code is available at:
-https://github.com/timeToCode-ali/nextjs-tutorial
+![Screen 1](./public/images/screen1.png)
+![Screen 2](./public/images/screen2.png)
+
+## Live Demo
+
+Deployed on Vercel: [https://events-app-beta.vercel.app/](https://events-app-beta.vercel.app/)
